@@ -1620,7 +1620,7 @@ padding:80px 0 60px;
 
 .portfolio-item .portfolio_img img {
     width: 100%;
-    height: auto;
+    height: 400px;
 }
 
 .portfolio-item:hover .item_overlay {
