@@ -1147,20 +1147,8 @@ margin-bottom: 5px;
     text-decoration: none;
 }
 
-.team_box ul li a.fa-twitter:hover {
+.team_box ul li a.fa-instagram:hover {
     color: #55acee;
-}
-
-.team_box ul li a.fa-facebook:hover {
-    color: #3b5998;
-}
-
-.team_box ul li a.fa-pinterest:hover {
-    color: #cb2026;
-}
-
-.team_box ul li a.fa-google-plus:hover {
-    color: #dd4b39;
 }
  .img-circle {
 border-radius: 50%;
